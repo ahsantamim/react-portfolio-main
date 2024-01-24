@@ -1,0 +1,30 @@
+[
+  {
+    "role": "ICT Analyst",
+    "organisation": "Rajbari DC Office",
+    "startDate": "2021",
+    "endDate": "2022",
+    "experiences": [
+      "Evaluate ICT projects of Rajbari. Lead Trainer of School level programming in Rajbari district"
+    ],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Trainer (contractual)",
+    "organisation": "Solvers",
+    "startDate": "2021",
+    "endDate": "2022",
+    "experiences": [
+      "Trained government officer and employer of the 5 districts for waste management survey app of Bangladesh Bureau of Statistics."
+    ],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Junior Social Media Manager",
+    "organisation": "MI Bangladesh",
+    "startDate": "2017",
+    "endDate": "2018",
+    "experiences": ["Customer association, Data visualization, Data Analysis"],
+    "imageSrc": "history/netflix.png"
+  }
+]
